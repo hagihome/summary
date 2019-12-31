@@ -2,7 +2,11 @@
 
 さて、今年もあとわずかだし、ちょっと振り返ってみよう。
 
-## 今年の目標
+立てた目標がことごとく失敗しているので、2020年は気合いを入れよう。
+シェア記事はやはりAI系が多いな。
+
+
+## 2019年の目標
 
 ### 体重10kgの削減
 
@@ -20,25 +24,34 @@
  - [ナマステ★インディア](http://www.indofestival.com/)
 
 ### 旅行に2回行く
+
   どこもいかなかったなぁ。
 
 ### 仕事面で身の回りの事の自動化2件
+
+  仕掛け的には作ったので、展開するか。
 
   - UVM検証環境の自動生成(Shell Script実装)
   - 結果レポートの自動生成の仕組み（Makefile実装）
 
 ### 趣味回り工作で実用化まで完成2件
 
+  3Dプリンタで作ったものは運用中。
+
   - [Rpi Cluster](https://www.facebook.com/hagihome/posts/2311468065563249)
     実用化までは言っていないが、計算させるところまでは実施。結局CPUの方が早いよね。ロマン実装。('19/05/10)
     
   - [pibot](https://www.facebook.com/hagihome/posts/2412392888804099)
+    一応動かすところまではいったが、なぜかカメラの画質が悪い…。
 
   - [フィラメントホルダー](https%3A%2F%2Fwww.facebook.com%2Fhagihome%2Fposts%2F2422917244418330)
     - [失敗](https://www.facebook.com/hagihome/posts/2422225771154144)
 
   - [USB HUBホルダー](https%3A%2F%2Fwww.facebook.com%2Fhagihome%2Fposts%2F2424357180941003)
     - [最終バージョン](https%3A%2F%2Fwww.facebook.com%2Fhagihome%2Fposts%2F2424787204231334)
+
+  - smart mirror
+    作ったのだけれど、写真がない。そして、壊れた。作品としては今年一番かな。
 
 ## 出来事
 
@@ -61,26 +74,19 @@
 - 父ちゃん、年末恒例？ガン発見
   とりあえず、転移する前に見つかってよかった。
 
-
 ## イベント系
 
+今年の目標部分に書いてある
 
 ## ゲーム系
 
+- Division
+- Death Stranding
 
-## ガジェット敬
+## ガジェット
 
 - [NCS2 on raspberrypi](https://www.facebook.com/hagihome/posts/2223945340982189)(2019/03/15)
   とりあえず、動かしてみた。USBの転送速度ネックで6fpsくらいしか出ていない。
-
-- [jetbot](https://github.com/NVIDIA-AI-IOT/JetBot)
-  長くつらい戦いが始まった。
-  [1](https://www.facebook.com/hagihome/posts/2335589083151147)
-  [2](https://www.facebook.com/hagihome/videos/2337250129651709/)
-  [成果としてのnotebook](https://www.facebook.com/hagihome/posts/2339539599422762)
-  [jetbotのモデルを別のところで動かしたいが…その１](https://www.facebook.com/hagihome/posts/2342769582433097)
-  [jetbotのモデルを別のところで動かしたいが…その２](https://www.facebook.com/hagihome/posts/2344742625569126)
-  [jetbotのモデルを別のところで動かしたいが…その３](https://www.facebook.com/hagihome/posts/2351453741564681)
 
 - [Coral Offline Compiler(Google Edge TPU)](https://coral.ai/news/updates-05-2019/)
 
@@ -89,7 +95,7 @@
 
 ## 仕事系
 
-
+特になし
 
 ## TV・映画・動画
 
@@ -108,6 +114,19 @@
 
 ## 趣味
 
+- [jetbot](https://github.com/NVIDIA-AI-IOT/JetBot)
+  長くつらい戦いが始まった。
+  [1](https://www.facebook.com/hagihome/posts/2335589083151147)
+  [2](https://www.facebook.com/hagihome/videos/2337250129651709/)
+
+ - pibot(https://www.facebook.com/hagihome/posts/2412392888804099)
+  [jetbotの成果:jupyter notebook](https://www.facebook.com/hagihome/posts/2339539599422762)
+  [jetbotのモデルを別のところで動かしたいが…その１](https://www.facebook.com/hagihome/posts/2342769582433097)
+  [jetbotのモデルを別のところで動かしたいが…その２](https://www.facebook.com/hagihome/posts/2344742625569126)
+  [jetbotのモデルを別のところで動かしたいが…その３](https://www.facebook.com/hagihome/posts/2351453741564681)
+
+ - smart mirror
+   作ったんだけど、写真撮っていない。作品的には一番楽しかったかも。いらないAndroid端末があれば、作れるかな。
 
 ## 気になった記事
 
@@ -299,8 +318,4 @@
 
 - [溝の口に担々麺専門店「大陸麺本舗」](https://kawasaki.keizai.biz/headline/731/)
   行ってないなぁ。
-
-## まとめ
-
-## Reference
 
